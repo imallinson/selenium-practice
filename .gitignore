@@ -1,0 +1,10 @@
+.settings
+target
+.classpath
+.factorypath
+.project
+bin
+.sonar_lock
+report-task.txt
+sonar-project.properties
+*.sh
